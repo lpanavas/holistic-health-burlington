@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Short Run",
+    "about": "We are going to do a run 4ish mile run down by the water front. The pace is inclusive with no one left behind. We will finish the run with dollar pizza and dollar beer.",
+    "date": "2024-05-15",
+    "start_time": "5:00 PM",
+    "end_time": "6:00 PM",
+    "location": {
+      "name": "Honey Road",
+      "address": "https://www.google.com/maps/place/Honey+Road/@44.4761072,-73.2148298,17z/data=!3m1!4b1!4m6!3m5!1s0x4cca7af78a1cbd71:0xd8965f0e6990c594!8m2!3d44.4761072!4d-73.2122549!16s%2Fg%2F11dzx6nt9v?entry=ttu"
+    },
+    "contact": {
+      "name": "Liudas Panavas",
+      "number": "610-906-5941"
+    }
+  }
+]
